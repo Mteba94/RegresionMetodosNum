@@ -94,6 +94,7 @@ plt.plot(readworkbook['MES/AÑO'],readworkbook['2022'], label="2022")
 plt.legend(loc="upper left")
 plt.xlabel('MES', fontdict=fuente1) 
 plt.ylabel('PRECIO Q', fontdict=fuente1)
+plt.title("Gasolina Superior con Aditivo")
 plt.grid
 plt.show()
 
@@ -116,5 +117,6 @@ plt.plot(readworkbook['MES/AÑO'],readworkbook[2022], label="2022")
 plt.legend(loc="upper left")
 plt.xlabel('MES', fontdict=fuente1) 
 plt.ylabel('PRECIO Q', fontdict=fuente1)
+plt.title("Gasolina Superior")
 plt.grid
 plt.show()

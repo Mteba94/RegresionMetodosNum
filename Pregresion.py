@@ -39,6 +39,7 @@ plt.scatter(X_test, y_test)
 plt.plot(X_test, Y_pred, color='red', linewidth=3)
 plt.xlabel('Mes')
 plt.ylabel('Precio')
+plt.title("Regresion Lineal")
 plt.show()
 
 print('Ecuacion del modelo:')
