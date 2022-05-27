@@ -6,7 +6,6 @@ import tabula
 import matplotlib.pyplot as plt
 import openpyxl
 from cProfile import label
-import numpy as np
 
 #Eliminar los archivos para volver a descargarlos actualizados
 os.remove('Informe-Mensual-ABRIL-2022-SC.pdf')
