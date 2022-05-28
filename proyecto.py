@@ -132,7 +132,7 @@ datos.head()
 
 #Convierte los datos en X - y
 X = datos.iloc[:,0].values
-y = datos.iloc[:,1].values
+y = datos.iloc[:,20].values
 
 # convertir el array
 X = X.reshape(-1,1)
