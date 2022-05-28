@@ -127,7 +127,7 @@ plt.show()
 #regresion lineal
 
 #Leer excel
-datos = pd.read_excel("Prueba.xlsx")
+datos = pd.read_excel("Regresion.xlsx")
 datos.head()
 
 #Convierte los datos en X - y
