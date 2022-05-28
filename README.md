@@ -12,3 +12,5 @@ Tabula = Necesaria para poder converitir el PDF a excel o csv, poder leerlo y ex
 Matplotlib = Utilizada para poder mostrar la informacion por medio de graficas con pyplot.
 Openpyxl = Manipula la informacion de excel, se puede eliminar columnas, agregar, modificar filas, campos, etc.
 cProfile = se utilizo para poder cambiar el tipo de letra de la grafica.
+
+Realiza modificacione al pdf descargado para poderlo manipular por medio de excel don de extrae los datos para reailzar la grafica y de la misma manera la regresion lineal la cual esta calculada por del año 2021 como ejemplo base para este año, por estar incompleto no se puede utilizar aun porque los datos aun no serian lo mas certeros posibles.
